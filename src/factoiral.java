@@ -1,5 +1,5 @@
 
-public class factoiral {
+public class Factorial {
 
 	    // Iterative approach
 	    public static long iterativeFactorial(int n) {
